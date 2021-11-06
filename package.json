@@ -1,0 +1,23 @@
+{
+  "name": "social-network-react-graphql",
+  "version": "1.0.0",
+  "description": "A Social Network for Tutan",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "apollo-server": "^3.4.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12"
+  }
+}
